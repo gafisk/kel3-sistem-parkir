@@ -15,3 +15,9 @@ tutorial penggunaan aplikasi
 2. simpan file pada C:\xampp\htdocs dengan nama folder parkir (karena kami menggunakan variabel untuk di arahkan ke folder dengan nama parkir)
 3. form login bisa menggunakan username dan pasword = admin dan admin
 4. Selamat mencoba
+<br>
+
+Atau bisa mencobanya langsung di bawah ini
+https://kel3-sistemparkir.000webhostapp.com/
+
+note: karena merupakan hosting gratis, jadi agak tidak disarankan, karenakan sering terjadi server down atau eror, namun hanya kemungkinan.
