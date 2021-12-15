@@ -3,15 +3,15 @@
 
 NAMA				NIM
 
-Laily Tri Hidayat	:	190411100008
-Dwi Sulistini Hasien	:	190411100026
-Jan Philip Faith	:	190411100112
-Azhar As Rahmatulloh	:	190411100157
-Galih Restu Baihaqi	:	190411100177
-Adrian Rifky Pradana	:	190411100184
+Laily Tri Hidayat	:	190411100008 <br>
+Dwi Sulistini Hasien	:	190411100026 <br>
+Jan Philip Faith	:	190411100112 <br>
+Azhar As Rahmatulloh	:	190411100157 <br>
+Galih Restu Baihaqi	:	190411100177 <br>
+Adrian Rifky Pradana	:	190411100184 <br>
 
 tutorial penggunaan aplikasi
-1. import file database kedalam database dengan nama "dbparkir" (tanpa tanda petik)
+1. import file database kedalam database dengan nama "dbparkir" (tanpa tanda petik) 
 2. simpan file pada C:\xampp\htdocs dengan nama folder parkir (karena kami menggunakan variabel untuk di arahkan ke folder dengan nama parkir)
 3. form login bisa menggunakan username dan pasword = admin dan admin
 4. Selamat mencoba
