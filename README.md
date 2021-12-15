@@ -17,7 +17,7 @@ tutorial penggunaan aplikasi
 4. Selamat mencoba
 <br>
 
-Atau bisa mencobanya langsung di bawah ini
+Atau bisa mencobanya langsung di bawah ini <br>
 https://kel3-sistemparkir.000webhostapp.com/
 
 note: karena merupakan hosting gratis, jadi agak tidak disarankan, karenakan sering terjadi server down atau eror, namun hanya kemungkinan.
